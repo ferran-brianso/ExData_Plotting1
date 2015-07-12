@@ -10,6 +10,9 @@
 ## Github repo: http://github.com/ferran-brianso/ExData_Plotting1
 ####################################################################
 
+####
+####  Data source: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip [20Mb]
+####  (Download, unzip, and leave .txt file as it is in the working directory)
 #### 
 #### The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
 ####  
